@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002Fsolar-calculator\u002F_nuxt\u002Fstatic\u002F1623307651",layout:"default",error:a,serverRendered:true,routePath:"\u002Fcalculate\u002Fload",config:{_app:{basePath:"\u002Fsolar-calculator\u002F",assetsPath:"\u002Fsolar-calculator\u002F_nuxt\u002F",cdnURL:a}}}}(null));
