@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/calculate/load", {data:[{}],fetch:{},mutations:void 0});
